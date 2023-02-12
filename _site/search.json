@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gianfrancesco Angelini",
+    "section": "",
+    "text": "Mind, space, life, love. It’s all about neurons.\nHi! I’m a passionate senior software developer and devops professional with a deep interest in intelligence (bio or artifical). Currently, I’m pursuing a PhD in AI to expand my knowledge in this rapidly-evolving field. With extensive experience in designing and developing complex software systems, I’m a reliable and efficient team player. I’m always eager to take on new ambitious challenges to enhance my skills and contribute to the success of any project. Feel free to contact me and have a chat"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Gianfrancesco Angelini",
+    "section": "",
+    "text": "Hi! I’m a Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Gianfrancesco Angelini",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Gianfrancesco Angelini",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gianfrancesco Angelini",
+    "section": "Education",
+    "text": "Education\nUniv. Tor Vergata | Roma, IT\nPhD in Artificial Intelligence: Health and Life Science | Nov 2023-Present\nUniv. of Genova | Genova, IT\nMaster: M.E. in Bioengineering, Neuroengineering, 110/110 | Grad. Dec 2017\nUniv. of Calabria | Cosenza, IT Bachelor: Laurea Triennale in Chemical Engineering | Grad. July 2014\nAdvanced School in AI, AI2Life SRL, Italian National Research Council (CNR) | June 2022\nCausal Modeling In Machine Learning, Altdeep.ai | November 2021\nAWS Certified Cloud Practitioner | March 2021 Machine Learning on Azure, Microsoft Scholarship Foundation Course, Udacity | July 2020\nDeep Learning Nanodegree, Udacity. Sponsored by Bertelsmann as Tech Scholarship - AI Track | Sept 2020\nCertified ScrumMaster® (CSM®), by Scrum Alliance®, Certification URL: http://bcert.me/sgbqrvmtz | Dec 2018\nDeep Learning specialization by deeplearning.ai on Coursera | March 2018\nSimulation Neuroscience, by EPFL de Lausanne, Lausanne, CH, on edX | August 2017."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gianfrancesco Angelini",
+    "section": "Experience",
+    "text": "Experience\nPrometeia, BO, ITA | Senior Data/Software Engineer, Freelance, remote | Mar 2022 - Present\nOmdena, NY, USA | Product Owner, remote | July 2021 - Sep 2021\nHumanity, Boston, USA | Data Scientist, remote | June 2021 - Feb 2022\nOmdena, NY, USA | ML Engineer, remote | Feb 2021 - Apr 2021\nSerenissima Informatica SPA, Padova, IT | Data Engineer/AI Developer, R&D | Jul 2018 - Jul 2021\nTrainer in Deep Learning introductory crash-course, Padova, PD, IT. | Oct 2019\nVizzola Ticino, VA. | Consultant in Deep Learning for Computer Vision, ATS SRL | Nov 2017-July 2018\nRadboud Univ.and Radboud UMC, Nijmegen (NE) | Research Intern in Computational Neuroscience | Marc 2017 - Jul 2017\nWeb Developer Freelance, IT. | 2008-2016"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other",
+    "section": "",
+    "text": "This is another page"
+  },
+  {
+    "objectID": "other.html#education",
+    "href": "other.html#education",
+    "title": "Other",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "other.html#experience",
+    "href": "other.html#experience",
+    "title": "Other",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "gianfa",
+    "section": "",
+    "text": "https://ucsb-meds.github.io/creating-quarto-websites/"
+  }
+]

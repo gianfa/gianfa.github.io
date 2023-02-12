@@ -1,0 +1,89 @@
+---
+title: "Gianfrancesco Angelini"
+about:
+  template: jolla
+  image: imgs/prof1.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/gianfa/
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/gianfrancesco-angelini-62734546/
+    - icon: file-person
+      text: CV
+      href: https://docs.google.com/document/d/1S7iZPIQUI--G6ZI4dMUe0eVVgmgDp-OknwYd6TAhj1Q/
+---
+> Mind, space, life, love. It’s all about neurons.
+
+Hi! I'm a passionate senior software developer and devops professional with a deep interest in intelligence (bio or artifical). Currently, I'm pursuing a PhD in AI to expand my knowledge in this rapidly-evolving field. With extensive experience in designing and developing complex software systems, I'm a reliable and efficient team player. I'm always eager to take on new ambitious challenges to enhance my skills and contribute to the success of any project. Feel free to contact me and have a chat
+
+## Education
+
+
+
+[Univ. Tor Vergata](https://fismed.uniroma2.it/?page_id=2953) | Roma, IT  
+PhD in Artificial Intelligence: Health and Life Science | Nov 2023-Present
+
+Univ. of Genova | Genova, IT  
+Master: M.E. in Bioengineering, Neuroengineering, 110/110
+| Grad. Dec 2017
+
+Univ. of Calabria | Cosenza, IT
+Bachelor: Laurea Triennale in Chemical Engineering | Grad. July 2014
+
+[Advanced School in AI](https://as-ai.org/), AI2Life SRL, Italian National Research Council (CNR) | June 2022
+
+[Causal Modeling In Machine Learning](https://www.credly.com/earner/earned/badge/ad01d262-e834-4afb-b2ae-dfbfce98f6dd), Altdeep.ai | November 2021
+
+[AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/d665af27-9cb4-448e-8e23-6278feedb5de/public_url) | March 2021
+Machine Learning on Azure, Microsoft Scholarship Foundation Course, Udacity | July 2020
+
+[Deep Learning Nanodegree](https://confirm.udacity.com/2AKXPLNK), Udacity. Sponsored by Bertelsmann as Tech Scholarship - AI Track | Sept 2020
+
+[Certified ScrumMaster® (CSM®)](http://bcert.me/sgbqrvmtz), by Scrum Alliance®,
+      Certification URL: http://bcert.me/sgbqrvmtz | Dec 2018
+
+[Deep Learning  specialization](https://coursera.org/share/55d5f51e5d07a459fb772874f2cd6aff) by deeplearning.ai on Coursera | March 2018
+
+Simulation Neuroscience, by EPFL de Lausanne, Lausanne, CH, on edX | August 2017.
+
+
+## Experience
+
+[Prometeia](https://prometeia.com/it/home), BO, ITA | Senior Data/Software Engineer, Freelance, remote | Mar 2022 - Present
+
+Omdena, NY, USA | Product Owner, remote | July 2021 - Sep 2021
+
+Humanity, Boston, USA | Data Scientist, remote | June 2021 - Feb 2022
+
+Omdena, NY, USA | ML Engineer, remote | Feb 2021 - Apr 2021
+
+Serenissima Informatica SPA, Padova, IT | Data Engineer/AI Developer, R&D | Jul 2018 - Jul 2021
+
+Trainer in Deep Learning introductory crash-course, Padova, PD, IT. | Oct 2019
+
+[comment]: <> (Topics: 
+System: Python, Conda, Git, Spyder, IPython, Colab;
+Fundaments: Numpy, Pandas, Simple Data pipelines and Data modeling;
+Basic DNN: Keras and FastAI simple networks, intro to Pytorch and TF2. )
+
+
+Vizzola Ticino, VA. | Consultant in Deep Learning for Computer Vision, ATS SRL | Nov 2017-July 2018
+
+[comment]: <> (Development and Project Coordination of a DNN architecture for multiple objects detection in Keras, based on X-Ray images.. )
+
+Radboud Univ.and Radboud UMC, Nijmegen (NE) | Research Intern in Computational Neuroscience | Marc 2017 - Jul 2017
+
+[comment]: <> (Research Intern in Computational Neuroscience, Radboud University Neuroinformatics Dept. and Radboud UMC, Nijmegen (NE). | March 2017-July 2017
+Analysis of biological neural network data, from MEA recording;
+Modeling a biological Neuronal Network as spiking NN, using stochastic Izhikevich neurons, In Matlab and C++.)
+
+
+Web Developer Freelance,  IT. | 2008-2016
+
+[comment]: <> (For many clients, such as Mavilab snc (Milano), Tonino Amoroso Real-Estate agent (Cosenza) and others.
+Development of a web interface in Php and JS for a video platform on web, based on Vimeo API.)

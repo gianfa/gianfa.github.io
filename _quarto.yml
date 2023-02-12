@@ -1,0 +1,39 @@
+project:
+  type: website
+  # https://quarto.org/docs/projects/scripts.html
+  # pre-render: prepare.py
+  output-dir: docs
+
+website:
+  title: "Gianfrancesco Angelini"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  open-graph: 
+    site-name: Gianfrancesco Angelini web site
+  favicon: logo.png
+  twitter-card: true
+  # site-url: https://example.com
+  # cookie-consent: true
+  # body-header: | 
+  #   This page brought to you by <https://example.com>
+  # body-footer: |
+  #   This page brought to you by <https://example.com>
+  # margin-header: |
+  #   ![Logo image](/img/logo.png)
+
+
+format:
+  html:
+    # choose themes from: https://bootswatch.com/ 
+    theme:
+      dark: slate
+      light: flatly
+    css: styles.css
+    toc: true
+
+
+
+
+
