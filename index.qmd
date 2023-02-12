@@ -64,7 +64,7 @@ Omdena, NY, USA | ML Engineer, remote | Feb 2021 - Apr 2021
 
 Serenissima Informatica SPA, Padova, IT | Data Engineer/AI Developer, R&D | Jul 2018 - Jul 2021
 
-Trainer in Deep Learning introductory crash-course, Padova, PD, IT. | Oct 2019
+Trainer in Deep Learning introductory crash-course, Padova, PD, IT. | Oct 2019 
 
 [comment]: <> (Topics: 
 System: Python, Conda, Git, Spyder, IPython, Colab;
